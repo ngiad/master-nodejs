@@ -5,3 +5,21 @@ Chào mừng bạn đến với hành trình luyện tập Node.js của tôi! D
 
 ## 1. Bắt đầu với micro-service app MERN stack 
 - **Mục tiêu:** Hoàn thành Website thuê freelancer
+
+
+## 2. Luyện tập thêm với các design patterns
+- **Mục tiêu:** 
+
+## 3. Luyện tập thêm với các thuật toán
+- **Mục tiêu:** 
+
+
+
+
+
+
+
+
+## Kết Luận
+
+Hành trình học Node.js là một quá trình liên tục, luôn có điều mới mẻ để khám phá và cải thiện. Mỗi bước đi trong hành trình này đều giúp tôi phát triển kỹ năng và hiểu rõ hơn về cách xây dựng các ứng dụng mạnh mẽ và hiệu quả.
