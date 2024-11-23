@@ -6,6 +6,14 @@ Chào mừng bạn đến với hành trình luyện tập Node.js của tôi! D
 ## 1. Bắt đầu với micro-service app MERN stack 
 - **Mục tiêu:** Hoàn thành Website thuê freelancer
 
+- **Kế hoạch:** : Backend
++
++
+
+- **Kế hoạch:** : frontend
++
++
+
 
 ## 2. Luyện tập thêm với các design patterns
 - **Mục tiêu:** 
